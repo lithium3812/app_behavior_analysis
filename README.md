@@ -27,3 +27,11 @@ Tracking users' behavior on app and build a machine learning model to expect tho
 -enrolled_date: The date and time when the user purchased the payed product, if they did
 
 -liked: The app has "like" button in each page and users can hit it if they liked some feature
+
+## Algorithm
+
+I applied Logistic regreassion.
+
+## Cross Validation
+
+At the end I performed cross validation.
